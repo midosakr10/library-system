@@ -22,10 +22,10 @@ A complete Laravel web application for managing library operations with books an
 
 
 ## 🚀 Installation
-
+```bash
 git clone https://github.com/midosakr10/library-system.git
 cd library-system
 composer install
 php artisan migrate
 php artisan serve
-```
+
