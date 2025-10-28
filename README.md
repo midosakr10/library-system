@@ -20,6 +20,12 @@ A complete Laravel web application for managing library operations with books an
 - **[midosakr10](https://github.com/midosakr10)** - Project development & documentation
 - **[simo123123](https://github.com/simo123123)** - Collaboration & testing
 
+📖 Usage
+Visit http://localhost:8000
+
+Navigate to Authors or Books sections
+
+Add, edit, or delete records
 
 ## 🚀 Installation
 ```bash
